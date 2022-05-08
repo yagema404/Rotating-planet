@@ -1,3 +1,4 @@
+print("\u001b[32m")
 print("""
                  _-o#&&*''''?d:>b\\_
               _o/'`''  '',, dMF9MMMMMHo_
@@ -22,3 +23,28 @@ print("""
             `~,   .                     ./
                 . _                  .-PP
                   '`--._,dd###pp='''""")
+print("""
+                  .ovr:HMM#?:`' >b\\_
+              .,:&Hi' `'   '' \\\\|&bSMHo_
+            oHMMM#*}          `?&dMMMMMMHo.
+         .dMMMH'''''           ,oHH*&&9MMMM?.
+        ,MMM*'                 `*M\\bd<|'*&#MH\\
+       dHH?'                   :MMMMMM#bd#odMML
+      H' |\\                  `dMMMMMMMMMMMMMM9Mk
+     JL/'7+,.                `MMMMMMMMMMMMMMMH9ML
+    -`Hp     '               |MMMMMMMMMMMMMMMMHH|:
+    :  \\\\#M#d?                `HMMMMMMMMMMMMMMMMH.
+    .   JMMMMM##,              ``*''''*#MMMMMMMMH
+    -. ,MMMMMMMM6o_                    |MMMMMMMM':
+    :  |MMMMMMMMMMMMMb\\                 TMMMMMMT :
+    .   ?MMMMMMMMMMMMM'                 :MMMMMM|.`
+    -    ?HMMMMMMMMMM:                  HMMMMMM\\|:
+     :     9MMMMMMMMH'                 `MMMMMP.P.
+      .    `MMMMMMT''                   HMMM*''-
+       -    TMMMMM'                     MM*'  -
+        '.   HMM#                            -
+          -. `9M:                          .'
+            -. `b,,    .                . '
+              '-\\   .,               .-`
+                  '-:b~\\\\_,oddq==--'
+""")
